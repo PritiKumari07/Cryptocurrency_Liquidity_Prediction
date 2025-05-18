@@ -1,0 +1,10 @@
+prefix=/Users/pritidwivedi/Downloads/CryptocurrencyLiquidityPrediction/venv
+exec_prefix=/Users/pritidwivedi/Downloads/CryptocurrencyLiquidityPrediction/venv
+libdir=/Users/pritidwivedi/Downloads/CryptocurrencyLiquidityPrediction/venv/lib
+includedir=/Users/pritidwivedi/Downloads/CryptocurrencyLiquidityPrediction/venv/include
+
+Name: libavif
+Description: Library for encoding and decoding .avif files
+Version: 0.11.1
+Libs: -L${libdir} -lavif
+Cflags: -I${includedir} -DAVIF_DLL
