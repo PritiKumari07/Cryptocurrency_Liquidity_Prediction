@@ -1,0 +1,5 @@
+setup.py
+src/CryptocurrencyLiquidityPrediction.egg-info/PKG-INFO
+src/CryptocurrencyLiquidityPrediction.egg-info/SOURCES.txt
+src/CryptocurrencyLiquidityPrediction.egg-info/dependency_links.txt
+src/CryptocurrencyLiquidityPrediction.egg-info/top_level.txt
